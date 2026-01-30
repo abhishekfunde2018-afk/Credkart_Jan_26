@@ -1,0 +1,12 @@
+2026-01-27 22:27:03,119 - WARNING - _process_logs - lineno - The chromedriver version (143.0.7499.169) detected in PATH at C:\chromedriver\chromedriver.exe might not be compatible with the detected chrome version (144.0.7559.60); currently, chromedriver 144.0.7559.96 is recommended for chrome 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-27 22:27:03,904 - INFO - test_verify_Credkart_url_001 - lineno - this is info log
+2026-01-27 22:35:39,514 - WARNING - _process_logs - lineno - The chromedriver version (143.0.7499.169) detected in PATH at C:\chromedriver\chromedriver.exe might not be compatible with the detected chrome version (144.0.7559.60); currently, chromedriver 144.0.7559.96 is recommended for chrome 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-27 22:35:40,530 - INFO - test_verify_Credkart_url_001 - lineno - this opening credkart url
+2026-01-27 22:35:42,272 - INFO - test_verify_Credkart_url_001 - lineno - getting driver title
+2026-01-27 22:35:42,815 - INFO - test_verify_Credkart_url_001 - lineno - taking screenshot
+2026-01-30 12:20:10,309 - WARNING - _process_logs - lineno - The chromedriver version (143.0.7499.169) detected in PATH at C:\chromedriver\chromedriver.exe might not be compatible with the detected chrome version (144.0.7559.97); currently, chromedriver 144.0.7559.109 is recommended for chrome 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-30 12:20:10,476 - WARNING - _process_logs - lineno - The chromedriver version (143.0.7499.169) detected in PATH at C:\chromedriver\chromedriver.exe might not be compatible with the detected chrome version (144.0.7559.97); currently, chromedriver 144.0.7559.109 is recommended for chrome 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-30 12:20:10,512 - WARNING - _process_logs - lineno - The chromedriver version (143.0.7499.169) detected in PATH at C:\chromedriver\chromedriver.exe might not be compatible with the detected chrome version (144.0.7559.97); currently, chromedriver 144.0.7559.109 is recommended for chrome 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-30 12:20:11,892 - INFO - test_verify_Credkart_url_001 - lineno - this opening credkart url
+2026-01-30 12:20:13,997 - INFO - test_verify_Credkart_url_001 - lineno - getting driver title
+2026-01-30 12:20:14,199 - INFO - test_verify_Credkart_url_001 - lineno - taking screenshot

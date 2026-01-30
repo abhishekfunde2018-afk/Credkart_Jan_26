@@ -1,0 +1,4 @@
+fake_username--> michaelgarner
+fake_email--> matthew96@example.com
+
+Browser Closed
