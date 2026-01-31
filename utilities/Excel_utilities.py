@@ -21,4 +21,3 @@ class Excel_methods :
         excel_file = openpyxl.load_workbook(file_path)
         sheet = excel_file[sheet_name]
         return sheet.max_row
-

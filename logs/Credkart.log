@@ -10,3 +10,35 @@
 2026-01-30 12:20:11,892 - INFO - test_verify_Credkart_url_001 - lineno - this opening credkart url
 2026-01-30 12:20:13,997 - INFO - test_verify_Credkart_url_001 - lineno - getting driver title
 2026-01-30 12:20:14,199 - INFO - test_verify_Credkart_url_001 - lineno - taking screenshot
+2026-01-31 16:29:52,420 - WARNING - _process_logs - lineno - The chromedriver version (143.0.7499.169) detected in PATH at C:\chromedriver\chromedriver.exe might not be compatible with the detected chrome version (144.0.7559.110); currently, chromedriver 144.0.7559.109 is recommended for chrome 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-31 16:29:53,274 - INFO - test_verify_Credkart_url_001 - lineno - this opening credkart url
+2026-01-31 16:29:54,528 - INFO - test_verify_Credkart_url_001 - lineno - getting driver title
+2026-01-31 16:29:54,731 - INFO - test_verify_Credkart_url_001 - lineno - taking screenshot
+2026-01-31 16:55:03,251 - WARNING - _process_logs - lineno - The chromedriver version (143.0.7499.169) detected in PATH at C:\chromedriver\chromedriver.exe might not be compatible with the detected chrome version (144.0.7559.110); currently, chromedriver 144.0.7559.109 is recommended for chrome 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-31 16:55:04,065 - INFO - test_verify_Credkart_url_001 - lineno - this opening credkart url
+2026-01-31 16:55:05,720 - INFO - test_verify_Credkart_url_001 - lineno - getting driver title
+2026-01-31 16:55:05,931 - INFO - test_verify_Credkart_url_001 - lineno - taking screenshot
+2026-01-31 17:50:10,504 - WARNING - _process_logs - lineno - The chromedriver version (143.0.7499.169) detected in PATH at C:\chromedriver\chromedriver.exe might not be compatible with the detected chrome version (144.0.7559.110); currently, chromedriver 144.0.7559.109 is recommended for chrome 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-31 17:50:11,524 - INFO - test_verify_Credkart_url_001 - lineno - this opening credkart url
+2026-01-31 17:50:13,165 - INFO - test_verify_Credkart_url_001 - lineno - getting driver title
+2026-01-31 17:50:13,457 - INFO - test_verify_Credkart_url_001 - lineno - taking screenshot
+2026-01-31 17:55:06,956 - WARNING - _process_logs - lineno - The chromedriver version (143.0.7499.169) detected in PATH at C:\chromedriver\chromedriver.exe might not be compatible with the detected chrome version (144.0.7559.110); currently, chromedriver 144.0.7559.109 is recommended for chrome 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-31 17:55:07,897 - INFO - test_verify_Credkart_url_001 - lineno - this opening credkart url
+2026-01-31 17:55:09,634 - INFO - test_verify_Credkart_url_001 - lineno - getting driver title
+2026-01-31 17:55:09,883 - INFO - test_verify_Credkart_url_001 - lineno - taking screenshot
+2026-01-31 17:59:53,901 - WARNING - _process_logs - lineno - The chromedriver version (143.0.7499.169) detected in PATH at C:\chromedriver\chromedriver.exe might not be compatible with the detected chrome version (144.0.7559.110); currently, chromedriver 144.0.7559.109 is recommended for chrome 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-31 17:59:54,886 - INFO - test_verify_Credkart_url_001 - lineno - this opening credkart url
+2026-01-31 17:59:57,058 - INFO - test_verify_Credkart_url_001 - lineno - getting driver title
+2026-01-31 17:59:57,289 - INFO - test_verify_Credkart_url_001 - lineno - taking screenshot
+2026-01-31 18:08:05,645 - WARNING - _process_logs - lineno - The chromedriver version (143.0.7499.169) detected in PATH at C:\chromedriver\chromedriver.exe might not be compatible with the detected chrome version (144.0.7559.110); currently, chromedriver 144.0.7559.109 is recommended for chrome 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-31 18:08:05,645 - WARNING - _process_logs - lineno - The chromedriver version (143.0.7499.169) detected in PATH at C:\chromedriver\chromedriver.exe might not be compatible with the detected chrome version (144.0.7559.110); currently, chromedriver 144.0.7559.109 is recommended for chrome 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-31 18:08:05,654 - WARNING - _process_logs - lineno - The chromedriver version (143.0.7499.169) detected in PATH at C:\chromedriver\chromedriver.exe might not be compatible with the detected chrome version (144.0.7559.110); currently, chromedriver 144.0.7559.109 is recommended for chrome 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-31 18:08:07,632 - INFO - test_verify_Credkart_url_001 - lineno - this opening credkart url
+2026-01-31 18:08:09,539 - INFO - test_verify_Credkart_url_001 - lineno - getting driver title
+2026-01-31 18:08:09,717 - INFO - test_verify_Credkart_url_001 - lineno - taking screenshot
+2026-01-31 18:09:38,447 - WARNING - _process_logs - lineno - The chromedriver version (143.0.7499.169) detected in PATH at C:\chromedriver\chromedriver.exe might not be compatible with the detected chrome version (144.0.7559.110); currently, chromedriver 144.0.7559.109 is recommended for chrome 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-31 18:09:38,466 - WARNING - _process_logs - lineno - The chromedriver version (143.0.7499.169) detected in PATH at C:\chromedriver\chromedriver.exe might not be compatible with the detected chrome version (144.0.7559.110); currently, chromedriver 144.0.7559.109 is recommended for chrome 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-31 18:09:38,467 - WARNING - _process_logs - lineno - The chromedriver version (143.0.7499.169) detected in PATH at C:\chromedriver\chromedriver.exe might not be compatible with the detected chrome version (144.0.7559.110); currently, chromedriver 144.0.7559.109 is recommended for chrome 144.*, so it is advised to delete the driver in PATH and retry
+2026-01-31 18:09:39,943 - INFO - test_verify_Credkart_url_001 - lineno - this opening credkart url
+2026-01-31 18:09:42,810 - INFO - test_verify_Credkart_url_001 - lineno - getting driver title
+2026-01-31 18:09:42,944 - INFO - test_verify_Credkart_url_001 - lineno - taking screenshot
